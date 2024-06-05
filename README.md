@@ -3,9 +3,6 @@
 ## Definisi
 ExploreWorld adalah aplikasi mobile yang dirancang untuk para pecinta perjalanan yang ingin menemukan dan merencanakan destinasi impian mereka dengan mudah. Aplikasi ini menyediakan informasi lengkap tentang berbagai destinasi perjalanan di seluruh dunia, termasuk informasi tentang negara itu seperti bahasa yang digunakan waktu terbaik untuk mengunjungi, serta tempat-tempat yang direkomendasikan untuk dikunjungi. Dengan ExploreWorld, pengguna dapat merencanakan perjalanan mereka dengan lebih baik dan menemukan pengalaman yang tak terlupakan.
 
-## Makna “Explore World”
-Explore memotivasi pengguna untuk menjelajahi tempat-tempat baru. World berarti bahwa aplikasi ini mencakup keseluruhan dunia, memberi kesan global dan universal.
-
 ## Fitur-Fitur
 -	Register/Login: Pengguna dapat dengan mudah mendaftar atau masuk ke akun mereka untuk menyimpan preferensi perjalanan dan aktivitas mereka. Dengan fitur ini, mereka bisa mendapatkan rekomendasi yang lebih personal.
 -	Destinasi Perjalanan:
